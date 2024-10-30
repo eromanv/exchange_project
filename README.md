@@ -13,7 +13,7 @@
 
 1. **Клонирование репозитория:**
    ```bash
-   git clone https://github.com/your-username/exchange_project.git
+   git clone https://github.com/eromanv/exchange_project.git
    cd exchange_project
 
 2. **Установка виртуального окружения и зависимостей**:
